@@ -1,5 +1,5 @@
 TRABALHO DE DESENVOLVIMENTO DE SOFTWARE_PARTE1
-ALUNOS: Leonardo Mulinari e Murilo Schreiner Ortiz
+ALUNOS: Leonardo Mulinari, Murilo Schreiner Ortiz e Pedro Ferreira Taborda
 
 Os seguintes métodos estão inocrporados, seguem alguns testes que podem ser realizados:
 
